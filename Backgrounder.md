@@ -29,7 +29,7 @@ Ultimately, this decision represents a trade-off between short-term economic ben
 2. Number of people employed in fisheries and aquaculture - ["Number of people employed in fisheries and aquaculture"](https://ourworldindata.org/grapher/employed-fisheries-aquaculture-time?v=1&csvType=full&useColumnShortNames=false) 
 3. Fish and seafood production -  ["Fish and seafood production"](https://ourworldindata.org/grapher/fish-seafood-production?v=1&csvType=full&useColumnShortNames=false)
 4. Sustainable fisheries as a proportion of gross domestic product - ["Sustainable fisheries as a proportion of gross domestic product"](https://ourworldindata.org/grapher/sustainable-fisheries-as-a-proportion-of-gdp?v=1&csvType=full&useColumnShortNames=false)
-5. Share of people who are undernourished - ["Share of people who are undernourished"](https://ourworldindata.org/grapher/prevalence-of-undernourishment?v=1&csvType=full&useColumnShortNames=false) on the Our World in Data website.
+5. Share of people who are undernourished - ["Share of people who are undernourished"](https://ourworldindata.org/grapher/prevalence-of-undernourishment?v=1&csvType=full&useColumnShortNames=false) 
 
 
 ---
