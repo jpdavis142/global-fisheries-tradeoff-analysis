@@ -40,3 +40,8 @@ This reinforcing loop creates a snowball effect where increased fishing activity
 This balancing loop acts to stabilize the system by increasing regulation when ecosystem health declines, reducing fishing pressure over time.
 
 ---
+
+###Dataset References:
+Food and Agriculture Organization of the United Nations. (n.d.). Fish farmers (aquaculture) [Data set]. Our World in Data. https://ourworldindata.org/
+
+
