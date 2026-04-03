@@ -18,6 +18,7 @@ This project analyzes global fisheries data to support decision-making by identi
 ---
 
 ## Initial Causal Loop Diagram (CLD)
+![Causal Loop Diagram](FisheriesCLDDraft.png)
 
 
 ---
