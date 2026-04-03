@@ -41,7 +41,4 @@ This balancing loop acts to stabilize the system by increasing regulation when e
 
 ---
 
-### Dataset References:
-Food and Agriculture Organization of the United Nations. (n.d.). Fish farmers (aquaculture) [Data set]. Our World in Data. https://ourworldindata.org/
-
 
