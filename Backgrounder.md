@@ -25,6 +25,8 @@ Ultimately, this decision represents a trade-off between short-term economic ben
 ---
 
 ## Datasets
+- Seafood production: wild fish catch vs. aquaculture - ["Seafood production: wild fish catch vs. aquaculture"](https://ourworldindata.org/grapher/capture-fisheries-vs-aquaculture?v=1&csvType=full&useColumnShortNames=false)
+- 
 
 
 ---
