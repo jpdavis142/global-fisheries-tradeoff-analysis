@@ -34,10 +34,28 @@ Ultimately, this decision represents a trade-off between short-term economic ben
 
 ---
 
-## References (APA)
+## References
 
-Food and Agriculture Organization. (2022). *The state of world fisheries and aquaculture*. FAO.
+## References
+
+Food and Agriculture Organization. (2022). *The state of world fisheries and aquaculture 2022*. FAO.
 
 Our World in Data. (2024). *Seafood production and fish stocks*. https://ourworldindata.org
 
-Pauly, D., & Zeller, D. (2016). Catch reconstructions reveal global marine fisheries trends. *Nature Communications*, 7(10244).
+Pauly, D., & Zeller, D. (2016). Catch reconstructions reveal global marine fisheries trends. *Nature Communications, 7*, 10244.
+
+Costello, C., Ovando, D., Clavelle, T., Strauss, C. K., Hilborn, R., Melnychuk, M. C., Branch, T. A., Gaines, S. D., Szuwalski, C. S., Cabral, R. B., Rader, D. N., & Leland, A. (2016). Global fishery prospects under contrasting management regimes. *Proceedings of the National Academy of Sciences, 113*(18), 5125–5129.
+
+Hilborn, R., Banobi, J., Hall, S. J., Pucylowski, T., & Walsworth, T. E. (2018). The environmental cost of animal source foods. *Frontiers in Ecology and the Environment, 16*(6), 329–335.
+
+Naylor, R. L., Hardy, R. W., Buschmann, A. H., Bush, S. R., Cao, L., Klinger, D. H., Little, D. C., Lubchenco, J., Shumway, S. E., & Troell, M. (2021). A 20-year retrospective review of global aquaculture. *Nature, 591*, 551–563.
+
+Ye, Y., Cochrane, K., Bianchi, G., Willmann, R., Majkowski, J., & Tandstad, M. (2013). Rebuilding global fisheries: The World Summit Goal, costs and benefits. *Fish and Fisheries, 14*(2), 174–185.
+
+Béné, C., Barange, M., Subasinghe, R., Pinstrup-Andersen, P., Merino, G., Hemre, G.-I., & Williams, M. (2015). Feeding 9 billion by 2050 – Putting fish back on the menu. *Food Security, 7*, 261–274.
+
+Golden, C. D., Allison, E. H., Cheung, W. W. L., Dey, M. M., Halpern, B. S., McCauley, D. J., Smith, M., Vaitla, B., Zeller, D., Myers, S. S., & others. (2016). Nutrition: Fall in fish catch threatens human health. *Nature, 534*, 317–320.
+
+Worm, B., Hilborn, R., Baum, J. K., Branch, T. A., Collie, J. S., Costello, C., Fogarty, M. J., Fulton, E. A., Hutchings, J. A., Jennings, S., Jensen, O. P., Lotze, H. K., Mace, P. M., McClanahan, T. R., Minto, C., Palumbi, S. R., Parma, A. M., Ricard, D., Rosenberg, A. A., Watson, R., & Zeller, D. (2009). Rebuilding global fisheries. *Science, 325*(5940), 578–585.
+
+United Nations. (2015). *Transforming our world: The 2030 Agenda for Sustainable Development*. United Nations. https://sdgs.un.org/2030agenda
