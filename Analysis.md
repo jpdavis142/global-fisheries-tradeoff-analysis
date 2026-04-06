@@ -109,7 +109,7 @@ Over five to ten years, this scenario offers the strongest chance of balancing e
 
 The key uncertainty is governance quality. Aquaculture can help, but only if it grows under sound environmental standards. The main unintended consequence is substitution without reform. If aquaculture expands recklessly, the system may simply exchange one set of ecological problems for another. This path works only if the transition is managed, not assumed.
 
-## 3. Leverage Point Analysis
+## 3. Leverage Point
 
 The most promising leverage point in this system is the shift away from dependence on expanding wild capture and toward a managed mixed seafood system built on controlled capture and responsible aquaculture growth.
 
