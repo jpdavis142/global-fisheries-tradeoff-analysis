@@ -100,7 +100,7 @@ This map shows that food insecurity remains concentrated in vulnerable regions, 
 
 ## Final Causal Loop Diagram
 
-![Final Causal Loop Diagram](img/CLDFinal.png)
+![Final Causal Loop Diagram](img/FinalCLD.png)
 
 The final Causal Loop Diagram shows a system pulled by appetite and restraint. At its center lies **R1, the overfishing cycle**. As **Fishing Intensity** rises, **Catch Volume** rises with it. Higher catch raises **Fisher Income**, and higher income encourages still more fishing. This is a reinforcing loop. It feeds on its own success. In the short run, it rewards effort. In the long run, it drives pressure onto the resource that supports it.
 
