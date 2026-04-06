@@ -16,11 +16,29 @@ Ultimately, this decision represents a trade-off between short-term economic ben
 
 ## Key Stakeholders
 
-- Commercial fishers and fishing communities  
-- Government regulators and policymakers  
-- International fisheries organizations  
-- Environmental NGOs  
-- Consumers and global food systems  
+### 1. International Fisheries Management Organizations
+These are the main decision-makers in the project. They set catch rules, quotas, enforcement standards, and sustainability targets.
+
+### 2. Commercial Fishing Fleets and Fishing Firms
+These groups depend on current harvest levels for revenue and are directly affected by stricter regulation or reduced catch limits.
+
+### 3. Small-Scale Fishers and Fishing Communities
+These stakeholders rely on fisheries for income, employment, and local economic stability. They are often the most vulnerable to sudden policy changes.
+
+### 4. Aquaculture Producers
+Since the project shows aquaculture rising as capture fisheries flatten, these producers are important stakeholders in any transition toward a mixed seafood system.
+
+### 5. Consumers and Food-Insecure Populations
+Fish are not just a commodity. In many places they are a major food source. This means that changes in seafood supply affect nutrition and food security, especially in vulnerable regions.
+
+### 6. National Governments
+Governments must balance economic growth, employment, trade, and environmental protection. They may support or resist stronger regulation depending on domestic interests.
+
+### 7. Environmental and Marine Conservation Organizations
+These groups are concerned with fish stock recovery, biodiversity, and ecosystem health. They often push for stronger sustainability measures.
+
+### 8. Seafood Processors, Distributors, and Retailers
+These businesses depend on stable seafood supply chains and can be affected by changes in production, regulation, and aquaculture growth.
 
 ---
 
