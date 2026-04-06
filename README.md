@@ -164,6 +164,12 @@ Future work could improve the project in several ways. A stronger next step woul
 
 ## References
 
+Food and Agriculture Organization. (2022). The state of world fisheries and aquaculture. 
+
+FAO. Our World in Data. (2024). Seafood production and fish stocks. https://ourworldindata.org 
+
+Pauly, D., & Zeller, D. (2016). Catch reconstructions reveal global marine fisheries trends. Nature Communications, 7(10244).
+
 Belton, B., Bush, S. R., & Little, D. C. (2018). Not just for the wealthy: Rethinking farmed fish consumption in the Global South. *Global Food Security, 16*, 85–92. https://doi.org/10.1016/j.gfs.2017.10.005
 
 Costello, C., Ovando, D., Clavelle, T., Strauss, C. K., Hilborn, R., Melnychuk, M. C., Branch, T. A., Gaines, S. D., Szuwalski, C. S., Cabral, R. B., Rader, D. N., & Leland, A. (2016). Global fishery prospects under contrasting management regimes. *Proceedings of the National Academy of Sciences, 113*(18), 5125–5129. https://doi.org/10.1073/pnas.1520420113
