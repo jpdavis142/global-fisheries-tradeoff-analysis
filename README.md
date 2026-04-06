@@ -164,12 +164,6 @@ Future work could improve the project in several ways. A stronger next step woul
 
 ## References
 
-> Replace or expand these with your final APA references based on the sources in your `data/` folder and dataset README files.
-
-- Food and Agriculture Organization of the United Nations. Fisheries and aquaculture datasets.
-- Our World in Data. Undernourishment and food security datasets.
-- Sustainable fisheries indicator sources used in project visualizations.
-- Additional project datasets listed in the `data/` directory.
 
 ---
 
