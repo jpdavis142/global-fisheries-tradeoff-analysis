@@ -45,7 +45,7 @@ For a more detailed background discussion, see [`Background.md`](Background.md).
 
 This project uses multiple public data sources related to fisheries production, sustainability, employment, and food security.
 
-- **Aquaculture and capture fisheries production data**  
+- **Aquaculture and capture fisheries production data** - [`Datasets`](data/Employed-Fisheries-Aquaculture-Time).
   Used to compare long-term trends in seafood production and assess whether wild capture is still expanding.
 
 - **Fisheries and aquaculture employment data**  
