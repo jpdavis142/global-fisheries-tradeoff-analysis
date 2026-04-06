@@ -5,44 +5,68 @@
 
 ### Chosen Archetype: Tragedy of the Commons
 
-The system archetype that best fits this decision context is **Tragedy of the Commons**. This archetype describes a situation in which many actors draw from a shared resource for private gain. Each actor has a rational incentive to take more in the short run. Yet when many actors behave this way at once, the shared resource declines. What is sensible for one user becomes destructive for the whole system.
+![Generic Archetype](img/TOTCDiagram.jpg)
 
-That pattern fits global fisheries closely. Fish stocks are a shared resource used by many countries, fleets, and firms. Each has reason to maintain or expand harvests in order to protect income, employment, and production. In the short term, higher fishing effort can raise catch and support economic stability. In the long term, however, that same behavior can deplete fish populations and weaken the ecosystems that sustain them.
+### Generic Archetype to Specific Mapping: Tragedy of the Commons
 
-### How the Archetype Maps to This Decision Context
+The generic **Tragedy of the Commons** archetype shows how many actors can damage a shared resource while pursuing their own short-term benefit. In the generic version, individual users increase their use of a common resource because that use creates immediate gain. As use rises, pressure on the shared resource rises as well. The damage is often delayed, so the system continues to reward extraction before the full cost becomes visible.
 
-The image of the generic archetype shows how individual incentives can drive overuse while balancing forces react only after the system begins to weaken. In this project, the same structure appears in the relationship between fishing activity, income, fish stocks, and regulation.
+In this project, the shared resource is **global fish stocks**. The users are **countries, fleets, firms, and fishers** that depend on fisheries for income, employment, and seafood supply. The generic archetype maps onto the project in the following way:
 
-The reinforcing loop is straightforward. Greater **Fishing Intensity** increases **Catch Volume**. Higher catch volume raises **Fisher Income**. Higher income then encourages still more fishing intensity. This loop rewards extraction in the short run and makes restraint difficult.
+#### Generic Archetype Elements
+- **Users seeking private gain**
+- **Resource extraction**
+- **Short-term benefit**
+- **Shared resource condition**
+- **Long-term system health**
+- **Restraint or regulation**
 
-At the same time, a balancing loop emerges. Greater **Fishing Intensity** reduces **Fish Population**. Lower fish populations weaken **Ecosystem Health**. As ecosystem health declines, pressure for stronger **Regulation Strictness** rises. Stronger regulation then reduces fishing intensity. This loop works against depletion, but often only after the resource has already been stressed.
+#### Specific Mapping to the Fisheries Case
+- **Users seeking private gain** → Countries, fleets, and fishers seeking income, jobs, and stable harvests
+- **Resource extraction** → Fishing Intensity
+- **Short-term benefit** → Catch Volume and Fisher Income
+- **Shared resource condition** → Fish Population
+- **Long-term system health** → Ecosystem Health and long-run seafood sustainability
+- **Restraint or regulation** → Regulation Strictness
 
-A second balancing force appears through aquaculture. As wild fish populations come under strain and capture fisheries flatten, the system shifts toward **Aquaculture Production**. Greater aquaculture production increases **Seafood Supply**, which can reduce pressure to keep expanding capture fishing. This does not remove the commons problem, but it changes how the system responds to its limits.
+This produces the same basic structure as the generic archetype.
 
-### Key Variables and Feedback Loops
+### Reinforcing Loop: Private Gain Through Extraction
 
-The key variables in this archetype are:
+In the generic archetype, users increase resource use because it produces short-term benefit. In the fisheries case, this appears as:
 
-- Fishing Intensity
-- Catch Volume
-- Fisher Income
-- Fish Population
-- Ecosystem Health
-- Regulation Strictness
-- Aquaculture Production
-- Seafood Supply
-- Food Security
+- **Fishing Intensity** increases **Catch Volume**
+- **Catch Volume** increases **Fisher Income**
+- **Fisher Income** encourages greater **Fishing Intensity**
 
-The key feedback loops are:
+This is the project’s **R1 — Overfishing Cycle**. It explains why extraction can continue even when the resource is under stress. The loop rewards actors in the present, so it is hard to slow.
 
-- **R1 — Overfishing Cycle**  
-  Fishing Intensity → Catch Volume → Fisher Income → Fishing Intensity
+### Balancing Loop: Resource Decline and Correction
 
-- **B1 — Sustainability Control**  
-  Fishing Intensity → Fish Population → Ecosystem Health → Regulation Strictness → Fishing Intensity
+In the generic archetype, growing pressure on the shared resource weakens the system and eventually triggers balancing forces. In the fisheries case, this appears as:
 
-- **B2 — Aquaculture Transition**  
-  Fish Population → Aquaculture Production → Seafood Supply → Fishing Intensity
+- **Fishing Intensity** reduces **Fish Population**
+- Lower **Fish Population** weakens **Ecosystem Health**
+- Lower **Ecosystem Health** increases pressure for stronger **Regulation Strictness**
+- Greater **Regulation Strictness** reduces **Fishing Intensity**
+
+This is **B1 — Sustainability Control**. It is the balancing force in the system. It does not stop overuse immediately, but it pushes back once ecological decline becomes visible.
+
+### Additional Project-Specific Adaptation Loop
+
+The fisheries system also shows a response that is not part of the simplest generic archetype but is important in this project:
+
+- Lower wild fish availability encourages more **Aquaculture Production**
+- Greater **Aquaculture Production** increases **Seafood Supply**
+- Greater **Seafood Supply** reduces pressure to expand **Fishing Intensity**
+
+This is **B2 — Aquaculture Transition**. It does not remove the commons problem, but it shows how the system adapts when wild capture reaches limits.
+
+### Why This Mapping Fits the Project
+
+The visual evidence supports this mapping. Capture fisheries appear to have flattened, which suggests that the shared resource is under constraint. At the same time, aquaculture has grown sharply, indicating system adaptation. The sustainability map shows that management outcomes differ across countries, which is typical in a commons problem. The undernourishment map shows why the consequences matter beyond fisheries alone: in many places, fish supply is tied to food security as well as income.
+
+For that reason, the generic **Tragedy of the Commons** archetype fits this project well. The same structure is present: private incentives encourage extraction, the shared resource deteriorates, and balancing forces respond only after pressure becomes visible. The decision-maker’s challenge is to intervene before short-term incentives cause long-term damage.
 
 ### Evidence That This Pattern Is Operating
 
