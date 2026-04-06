@@ -45,22 +45,20 @@ For a more detailed background discussion, see [`Background.md`](Background.md).
 
 This project uses multiple public data sources related to fisheries production, sustainability, employment, and food security.
 
-- **Aquaculture and capture fisheries production data** - [`Datasets`](data/Employed-Fisheries-Aquaculture-Time).
+- **Aquaculture and capture fisheries production data** - [`Dataset`](data/Fisheries-vs-Aquaculture).
   Used to compare long-term trends in seafood production and assess whether wild capture is still expanding.
 
-- **Fisheries and aquaculture employment data**  
+- **Fisheries and aquaculture employment data** - [`Dataset`](data/Employed-Fisheries-Aquaculture-Time).
   Used to compare labor patterns across traditional fishing and aquaculture sectors.
 
-- **Sustainable fisheries indicators**  
+- **Sustainable fisheries indicators** - [`Dataset`](data/Sustainable-Fisheries-as-a-Proportion-of-GDP).
   Used to compare sustainability performance across countries.
 
-- **Top seafood producer data**  
+- **Top seafood producer data** - [`Dataset`](data/Fish-Seafood-Production).
   Used to identify concentration in global seafood production.
 
-- **Global undernourishment data**  
+- **Global undernourishment data** - [`Dataset`](data/Employed-Fisheries-Aquaculture-Time). 
   Used to connect fisheries policy to broader food security concerns.
-
-For dataset citations and source details, see the documentation in the `data/` folder and the project references section below.
 
 ---
 
