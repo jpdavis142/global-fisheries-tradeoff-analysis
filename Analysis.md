@@ -7,7 +7,7 @@
 
 ![Generic Archetype](img/TOTCDiagram.jpg)
 
-### Generic Archetype to Specific Mapping: Tragedy of the Commons
+### Generic Archetype to Specific Mapping
 
 The generic **Tragedy of the Commons** archetype shows how many actors can damage a shared resource while pursuing their own short-term benefit. In the generic version, individual users increase their use of a common resource because that use creates immediate gain. As use rises, pressure on the shared resource rises as well. The damage is often delayed, so the system continues to reward extraction before the full cost becomes visible.
 
