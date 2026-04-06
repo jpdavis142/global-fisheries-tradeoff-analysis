@@ -164,6 +164,17 @@ Future work could improve the project in several ways. A stronger next step woul
 
 ## References
 
+Belton, B., Bush, S. R., & Little, D. C. (2018). Not just for the wealthy: Rethinking farmed fish consumption in the Global South. *Global Food Security, 16*, 85–92. https://doi.org/10.1016/j.gfs.2017.10.005
+
+Costello, C., Ovando, D., Clavelle, T., Strauss, C. K., Hilborn, R., Melnychuk, M. C., Branch, T. A., Gaines, S. D., Szuwalski, C. S., Cabral, R. B., Rader, D. N., & Leland, A. (2016). Global fishery prospects under contrasting management regimes. *Proceedings of the National Academy of Sciences, 113*(18), 5125–5129. https://doi.org/10.1073/pnas.1520420113
+
+Golden, C. D., Allison, E. H., Cheung, W. W. L., Dey, M. M., Halpern, B. S., McCauley, D. J., Smith, M., Vaitla, B., Zeller, D., Myers, S. S., & others. (2016). Nutrition: Fall in fish catch threatens human health. *Nature, 534*(7607), 317–320. https://doi.org/10.1038/534317a
+
+Naylor, R. L., Hardy, R. W., Buschmann, A. H., Bush, S. R., Cao, L., Klinger, D. H., Little, D. C., Lubchenco, J., Shumway, S. E., & Troell, M. (2021). A 20-year retrospective review of global aquaculture. *Nature, 591*(7851), 551–563. https://doi.org/10.1038/s41586-021-03308-6
+
+Sustainable Development Goals. (n.d.). Goal 14: Conserve and sustainably use the oceans, seas and marine resources. United Nations. https://sdgs.un.org/goals/goal14
+
+World Bank. (2023). Oceans for prosperity: Reforms for a blue economy. World Bank. https://www.worldbank.org/
 
 ---
 
