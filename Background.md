@@ -1,4 +1,4 @@
-# Backgrounder
+# Background
 
 Global fisheries are essential to both food security and economic development, providing a primary protein source for billions of people and supporting the livelihoods of over 50 million individuals worldwide. However, the sustainability of fisheries has become an increasingly urgent issue due to overfishing, environmental degradation, and climate change. Many fish stocks are being harvested at rates that exceed their natural ability to replenish, leading to long-term ecological and economic risks.
 
