@@ -17,29 +17,23 @@ This project analyzes global fisheries data to support decision-making by identi
 
 ---
 
-## Initial Causal Loop Diagram (CLD)
-![Causal Loop Diagram](FisheriesCLDDraft.png)
+## Causal Loop Diagram (CLD)
+![Causal Loop Diagram](CLDFinal.png)
+
+### Final Causal Loop Diagram Explanation
+
+The final Causal Loop Diagram shows a system pulled by appetite and restraint. At its center lies **R1, the overfishing cycle**. As **Fishing Intensity** rises, **Catch Volume** rises with it. Higher catch raises **Fisher Income**, and higher income encourages still more fishing. This is a reinforcing loop. It feeds on its own success. In the short run, it rewards effort. In the long run, it drives pressure onto the resource that supports it.
+
+Set against it is **B1, the sustainability control loop**. Greater **Fishing Intensity** reduces **Fish Population**. Lower fish populations weaken **Ecosystem Health**. As ecosystem health declines, pressure for stronger **Regulation Strictness** grows. Stricter regulation then pushes fishing intensity down. This balancing loop explains why the system does not expand without limit. It also explains why regulation often feels reactive. The corrective force enters only after ecological damage becomes visible.
+
+The diagram adds a third loop, **B2, the aquaculture transition loop**. As wild fish populations come under strain, the system shifts toward **Aquaculture Production**. Higher aquaculture output increases **Seafood Supply**, and greater seafood supply reduces pressure to keep expanding capture fishing. This loop matters because the project’s visual evidence suggests that capture fisheries have flattened while aquaculture has grown sharply. The system is already adapting to limits, though not always by design.
+
+Together, these loops explain the behavior seen in the project. Economic incentives push the system toward higher harvest. Ecological decline pushes back. Aquaculture emerges as a substitute path when wild capture can no longer bear the same load. The structure produces a familiar result: short-term stability can hide long-term fragility.
+
+The most important intervention lies where these loops meet. The leverage point is not regulation alone, nor aquaculture alone, but the combination of **tighter control of wild capture fisheries and support for responsible aquaculture growth**. That shift weakens the reinforcing overfishing loop while strengthening the two balancing loops. For the decision-maker, the choice is clear in principle, though hard in practice. To maintain current harvesting levels is to preserve present income at the risk of future decline. To guide the system toward a mixed and more sustainable seafood model is to trade some ease now for greater resilience later.
 
 
 ---
 
-## Explanation of Key Feedback Loops
-
-### Reinforcing Loop (R): Overfishing Cycle
-- Fishing Intensity (+) → Catch Volume  
-- Catch Volume (+) → Fisher Income  
-- Fisher Income (+) → Fishing Intensity  
-
-This reinforcing loop creates a snowball effect where increased fishing activity drives higher income, which further incentivizes more fishing, accelerating resource depletion.
-
-### Balancing Loop (B): Sustainability Control
-- Fishing Intensity (–) → Fish Population  
-- Fish Population (+) → Ecosystem Health  
-- Ecosystem Health (+) → Regulation Strictness  
-- Regulation Strictness (–) → Fishing Intensity  
-
-This balancing loop acts to stabilize the system by increasing regulation when ecosystem health declines, reducing fishing pressure over time.
-
----
 
 
