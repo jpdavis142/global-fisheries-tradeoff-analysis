@@ -54,12 +54,22 @@ These businesses depend on stable seafood supply chains and can be affected by c
 
 ## References
 
-## References
-
 Food and Agriculture Organization. (2022). *The state of world fisheries and aquaculture 2022*. FAO.
 
 Our World in Data. (2024). *Seafood production and fish stocks*. https://ourworldindata.org
 
 Pauly, D., & Zeller, D. (2016). Catch reconstructions reveal global marine fisheries trends. *Nature Communications, 7*, 10244.
+
+Belton, B., Bush, S. R., & Little, D. C. (2018). Not just for the wealthy: Rethinking farmed fish consumption in the Global South. *Global Food Security, 16*, 85–92. https://doi.org/10.1016/j.gfs.2017.10.005
+
+Costello, C., Ovando, D., Clavelle, T., Strauss, C. K., Hilborn, R., Melnychuk, M. C., Branch, T. A., Gaines, S. D., Szuwalski, C. S., Cabral, R. B., Rader, D. N., & Leland, A. (2016). Global fishery prospects under contrasting management regimes. *Proceedings of the National Academy of Sciences, 113*(18), 5125–5129. https://doi.org/10.1073/pnas.1520420113
+
+Golden, C. D., Allison, E. H., Cheung, W. W. L., Dey, M. M., Halpern, B. S., McCauley, D. J., Smith, M., Vaitla, B., Zeller, D., Myers, S. S., & others. (2016). Nutrition: Fall in fish catch threatens human health. *Nature, 534*(7607), 317–320. https://doi.org/10.1038/534317a
+
+Naylor, R. L., Hardy, R. W., Buschmann, A. H., Bush, S. R., Cao, L., Klinger, D. H., Little, D. C., Lubchenco, J., Shumway, S. E., & Troell, M. (2021). A 20-year retrospective review of global aquaculture. *Nature, 591*(7851), 551–563. https://doi.org/10.1038/s41586-021-03308-6
+
+Sustainable Development Goals. (n.d.). Goal 14: Conserve and sustainably use the oceans, seas and marine resources. United Nations. https://sdgs.un.org/goals/goal14
+
+World Bank. (2023). Oceans for prosperity: Reforms for a blue economy. World Bank. https://www.worldbank.org/
 
 United Nations. (2015). *Transforming our world: The 2030 Agenda for Sustainable Development*. United Nations. https://sdgs.un.org/2030agenda
