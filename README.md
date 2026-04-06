@@ -68,31 +68,31 @@ For dataset citations and source details, see the documentation in the `data/` f
 
 ### 1. Aquaculture vs. Capture Fisheries
 
-![Aquaculture vs Capture](img/Viz1.png)
+![Aquaculture vs Capture](img/Viz1/Viz1.svg)
 
 This visualization shows a major structural shift in the seafood system. Capture fisheries appear to flatten over time, while aquaculture production rises sharply and eventually overtakes capture. This suggests that wild capture is no longer a reliable source of continued growth and that aquaculture has become the main expansion path in seafood supply.
 
 ### 2. Employment in Fisheries and Aquaculture
 
-![Employment in Fisheries and Aquaculture](img/Viz2.png)
+![Employment in Fisheries and Aquaculture](img/Viz2/Viz2.svg)
 
 This chart shows that traditional fishing remains a major source of work, even as aquaculture employment grows. That matters for policy. Abrupt restrictions on capture fishing could impose real costs on workers and communities that still depend heavily on the sector.
 
 ### 3. Sustainable Fisheries by Country
 
-![Sustainable Fisheries by Country](img/Viz3.png)
+![Sustainable Fisheries by Country](img/Viz3/Viz3.svg)
 
 This map suggests that fisheries sustainability is uneven across countries. Some countries appear to manage fisheries more effectively than others, which means governance quality is an important part of the decision context.
 
 ### 4. Top Seafood Producers
 
-![Top Seafood Producers](img/Viz4.png)
+![Top Seafood Producers](img/Viz4/Viz4.svg)
 
 This visualization shows that seafood production is concentrated in a relatively small number of countries. That concentration matters because decisions by a few major producers can shape the wider global system.
 
 ### 5. Global Undernourishment
 
-![Global Undernourishment](img/Global%20Undernourishment.png)
+![Global Undernourishment](img/Viz5/Viz5.png)
 
 This map shows that food insecurity remains concentrated in vulnerable regions, especially in parts of Sub-Saharan Africa and selected countries in Asia and Oceania. This adds an important human dimension to the fisheries decision. Fish are not only an economic product. In many regions, they are also part of food security.
 
