@@ -1,86 +1,56 @@
-# Milestone 3 Analysis
+# Systems Thinking and Narrative Analysis 
+
 
 ## 1. System Archetype Identification
 
-### Chosen Archetype 1: Tragedy of the Commons
+### Chosen Archetype: Tragedy of the Commons
 
-The clearest system archetype in this decision context is the **Tragedy of the Commons**. In this archetype, many actors use a shared resource for private gain. Each actor has reason to take more now. Yet when all act that way, the shared resource declines.
+The system archetype that best fits this decision context is **Tragedy of the Commons**. This archetype describes a situation in which many actors draw from a shared resource for private gain. Each actor has a rational incentive to take more in the short run. Yet when many actors behave this way at once, the shared resource declines. What is sensible for one user becomes destructive for the whole system.
 
-That is the structure of global fisheries. Fish stocks are shared across nations, fleets, and firms. Each actor benefits from catching fish now. The revenue is immediate. The ecological cost is delayed and spread across the whole system. What is rational for one actor becomes destructive when repeated by many.
+That pattern fits global fisheries closely. Fish stocks are a shared resource used by many countries, fleets, and firms. Each has reason to maintain or expand harvests in order to protect income, employment, and production. In the short term, higher fishing effort can raise catch and support economic stability. In the long term, however, that same behavior can deplete fish populations and weaken the ecosystems that sustain them.
 
-This maps directly onto the project’s decision statement: whether an international fisheries management organization should impose stricter catch regulations or maintain current harvesting levels to support economic stability.
+### How the Archetype Maps to This Decision Context
 
-It also maps onto the feedback loops already established in the repository. The reinforcing loop is clear:
+The image of the generic archetype shows how individual incentives can drive overuse while balancing forces react only after the system begins to weaken. In this project, the same structure appears in the relationship between fishing activity, income, fish stocks, and regulation.
 
-- Fishing Intensity increases Catch Volume  
-- Catch Volume increases Fisher Income  
-- Fisher Income increases Fishing Intensity  
+The reinforcing loop is straightforward. Greater **Fishing Intensity** increases **Catch Volume**. Higher catch volume raises **Fisher Income**. Higher income then encourages still more fishing intensity. This loop rewards extraction in the short run and makes restraint difficult.
 
-This is the overfishing cycle. It rewards more effort with more income, at least for a time.
+At the same time, a balancing loop emerges. Greater **Fishing Intensity** reduces **Fish Population**. Lower fish populations weaken **Ecosystem Health**. As ecosystem health declines, pressure for stronger **Regulation Strictness** rises. Stronger regulation then reduces fishing intensity. This loop works against depletion, but often only after the resource has already been stressed.
 
-The balancing loop is also clear:
+A second balancing force appears through aquaculture. As wild fish populations come under strain and capture fisheries flatten, the system shifts toward **Aquaculture Production**. Greater aquaculture production increases **Seafood Supply**, which can reduce pressure to keep expanding capture fishing. This does not remove the commons problem, but it changes how the system responds to its limits.
 
-- Fishing Intensity reduces Fish Population  
-- Fish Population supports Ecosystem Health  
-- Ecosystem Health increases pressure for Regulation Strictness  
-- Regulation Strictness reduces Fishing Intensity  
+### Key Variables and Feedback Loops
 
-This loop can slow depletion, but it often acts late, after damage has begun.
+The key variables in this archetype are:
 
-#### Key Variables
+- Fishing Intensity
+- Catch Volume
+- Fisher Income
+- Fish Population
+- Ecosystem Health
+- Regulation Strictness
+- Aquaculture Production
+- Seafood Supply
+- Food Security
 
-The main variables in this archetype are:
+The key feedback loops are:
 
-- Fishing Intensity  
-- Catch Volume  
-- Fisher Income  
-- Fish Population  
-- Ecosystem Health  
-- Regulation Strictness  
-- Seafood Supply  
-- Food Security  
+- **R1 — Overfishing Cycle**  
+  Fishing Intensity → Catch Volume → Fisher Income → Fishing Intensity
 
-#### Evidence from the Data and Visualizations
+- **B1 — Sustainability Control**  
+  Fishing Intensity → Fish Population → Ecosystem Health → Regulation Strictness → Fishing Intensity
 
-The pattern appears in the visualizations. The **Top Seafood Producers** chart shows that production is concentrated in a small number of countries. That means pressure from a few major producers can shape the whole shared resource system. The **Sustainable Fisheries** map shows that sustainability performance is uneven across countries, which suggests that some parts of the system are managed more carefully than others. The **Global Undernourishment** map shows why depletion matters beyond ecology: where food insecurity is already high, stress on fish supply can become stress on human welfare.
+- **B2 — Aquaculture Transition**  
+  Fish Population → Aquaculture Production → Seafood Supply → Fishing Intensity
 
-Most important, the **Aquaculture vs Capture** chart suggests that capture fisheries have flattened while aquaculture continues to rise. That flattening is a warning. It implies that wild capture no longer grows as it once did. A commons under strain eventually stops yielding easy gains.
+### Evidence That This Pattern Is Operating
 
-### Chosen Archetype 2: Limits to Growth
+The project’s visualizations provide evidence that this archetype is operating. The **Aquaculture vs. Capture** chart shows that capture fisheries have flattened while aquaculture has risen sharply. This suggests that wild fisheries are no longer supporting easy growth and that the system is already responding to ecological limits. The **Employment** visualization shows that traditional fishing remains a large source of work, which helps explain why pressure to maintain harvests remains strong even when sustainability concerns increase.
 
-A second archetype also fits this project: **Limits to Growth**. In this archetype, an activity grows at first, then slows when it meets a constraint. Growth does not stop because demand disappears. It stops because the system can no longer support expansion at the same rate.
+The **Sustainable Fisheries** map suggests that management outcomes differ across countries, which is consistent with a commons problem: some actors restrain use more effectively than others. The **Top Seafood Producers** visualization shows that production is concentrated in a relatively small number of countries, meaning that decisions by a few large producers can strongly affect the shared resource system. Finally, the **Global Undernourishment** map shows why this matters beyond ecology and income. In many vulnerable regions, fisheries are tied to food security as well as trade.
 
-This appears in the capture fisheries trend. Wild capture seems to rise over time, then level off. That is the limit. The likely constraint is ecological. Fish stocks cannot support endless increases in harvest. The more the system grows, the more it creates the conditions that restrain further growth.
-
-This archetype also helps explain the rise of aquaculture. As capture fisheries flatten, aquaculture expands to meet demand. In other words, one part of the seafood system hits a limit, and another part grows to compensate.
-
-#### Key Variables
-
-The main variables in this archetype are:
-
-- Capture Fisheries Production  
-- Fishing Intensity  
-- Fish Population  
-- Ecosystem Health  
-- Aquaculture Production  
-- Seafood Demand  
-
-#### Evidence from the Data and Visualizations
-
-The strongest evidence is the **Aquaculture vs Capture** visualization. Capture no longer rises sharply, while aquaculture rises strongly and overtakes it. That is what a system looks like when one production path nears its limit and another takes its place.
-
-The **Employment** visualization supports this reading. Employment in capture fisheries remains high, but aquaculture employment grows steadily. This suggests that the seafood system is already shifting in structure, not just in output.
-
-### Generic and Specific Diagram Mapping
-
-#### Generic Tragedy of the Commons
-
-Users seek private gain (+) → Resource extraction (+) → Short-term benefit (+) → Users seek private gain
-
-Resource extraction (–) → Shared resource condition
-Shared resource condition (+) → Long-term system health
-Long-term system health (+) → Restraint / regulation
-Restraint / regulation (–) → Resource extraction
+Together, these patterns support the Tragedy of the Commons interpretation. The system rewards extraction in the short run, delays correction, and places long-term pressure on the shared resource base. That is why the decision-maker’s choice matters so much. The issue is not only how much fish to catch now, but how to govern a shared system before short-term incentives cause lasting damage.
 
 
 ## 2. Scenario Narratives
