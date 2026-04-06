@@ -18,7 +18,7 @@ This project analyzes global fisheries data to support decision-making by identi
 ---
 
 ## Causal Loop Diagram (CLD)
-![Causal Loop Diagram](CLDFinal.png)
+![Causal Loop Diagram](img/CLDFinal.png)
 
 ### Final Causal Loop Diagram Explanation
 
