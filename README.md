@@ -17,12 +17,12 @@ This project analyzes global fisheries data to support decision-making by identi
 
 ---
 
-## Causal Loop Diagram (CLD)
+## Causal Loop Diagram
 ![Causal Loop Diagram](img/CLDFinal.png)
 
-### Final Causal Loop Diagram Explanation
+### Causal Loop Diagram Explanation
 
-The final Causal Loop Diagram shows a system pulled by appetite and restraint. At its center lies **R1, the overfishing cycle**. As **Fishing Intensity** rises, **Catch Volume** rises with it. Higher catch raises **Fisher Income**, and higher income encourages still more fishing. This is a reinforcing loop. It feeds on its own success. In the short run, it rewards effort. In the long run, it drives pressure onto the resource that supports it.
+The Causal Loop Diagram shows a system pulled by appetite and restraint. At its center lies **R1, the overfishing cycle**. As **Fishing Intensity** rises, **Catch Volume** rises with it. Higher catch raises **Fisher Income**, and higher income encourages still more fishing. This is a reinforcing loop. It feeds on its own success. In the short run, it rewards effort. In the long run, it drives pressure onto the resource that supports it.
 
 Set against it is **B1, the sustainability control loop**. Greater **Fishing Intensity** reduces **Fish Population**. Lower fish populations weaken **Ecosystem Health**. As ecosystem health declines, pressure for stronger **Regulation Strictness** grows. Stricter regulation then pushes fishing intensity down. This balancing loop explains why the system does not expand without limit. It also explains why regulation often feels reactive. The corrective force enters only after ecological damage becomes visible.
 
@@ -34,6 +34,16 @@ The most important intervention lies where these loops meet. The leverage point 
 
 
 ---
+# Final Decision Recommendations
 
+## 2. Decision Recommendations
+
+I recommend that the International Fisheries Management Organization adopt a **managed transition strategy**: tighten controls on wild capture fisheries while supporting the growth of responsible aquaculture. This is the soundest course. It protects fish stocks, preserves long-term seafood supply, and gives the system a practical path away from dependence on ever-higher wild harvests. To maintain current harvesting levels may seem prudent in the short run, but it would leave the main problem untouched.
+
+The evidence points in one direction. The project’s visualizations suggest that **capture fisheries have flattened**, while **aquaculture production has risen sharply**. That pattern matters. It implies that wild capture is approaching, or has already reached, a limit in many parts of the system. At the same time, aquaculture is taking on a larger role in total seafood production. The employment data also show that traditional fishing remains a major source of work. This means the organization cannot rely on abrupt restriction alone. A strong policy must protect the resource without disregarding the people who depend on it. The sustainability map adds a further point: countries do not manage fisheries equally well. Some systems are better governed than others. The undernourishment map makes the stakes clearer still. In food-insecure regions, strain on seafood supply is not merely an economic issue. It is a human one.
+
+This recommendation rests on present evidence, not certainty. It could change under several conditions. If new data showed broad and durable recovery in major wild fish stocks, the urgency of tighter controls might lessen. If aquaculture expansion proved more environmentally harmful than expected, then support for it would need stricter limits and stronger standards. The recommendation also depends on enforcement. Rules that cannot be monitored or enforced will not change outcomes.
+
+The next steps should be practical. First, the organization should identify the most stressed fisheries and apply tighter catch controls there as a priority. Second, it should support responsible aquaculture through clear standards, incentives, and monitoring, so growth in that sector does not create a new environmental problem. Third, it should encourage transition support for affected workers and fishing communities, including training and investment where possible. Fourth, it should improve international coordination, since a shared resource cannot be managed well through isolated action. The organization should guide the system toward a more durable balance: lower pressure on wild fisheries, stronger oversight, and a more resilient seafood supply.
 
 
